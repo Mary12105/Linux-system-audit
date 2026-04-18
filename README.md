@@ -1,6 +1,6 @@
 # Linux System Audit and Monitoring
 **NSCS — Academic Year 2025/2026 | Dr. BENTRAD Sassi**
-
+# This work was put together by Cherifi Meriem & Mechraoui Wafaa (B3)
 ---
 
 ## Project Structure
